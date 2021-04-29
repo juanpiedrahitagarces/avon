@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: postgres
+    password: navarrete55
+    url: jdbc:postgresql://localhost:5432/clientes?autoReconnect=true
+  jpa:
+    hibernate:
+      ddl-auto: create
+    generate-ddl: true
+    show-sql: true

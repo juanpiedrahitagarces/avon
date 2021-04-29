@@ -1,0 +1,7 @@
+sprint.datasource.url=jdbc:postgresql://localhost:5432/habilitation
+sprint.datasource.username=nombre del usuario de posgrest
+sprint.datasource.password=clave de posgrest
+sprint.jpa.show-sql=true
+sprint.jpa.hibernate.ddl-auto=create-drop
+sprint.jpa.properties
+sprint.jpa.properties

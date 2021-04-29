@@ -1,0 +1,14 @@
+package serviceimpl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import repository.PersonaRepository;
+import service.PersonaService;
+
+@Service
+public class PersonaServiceImpl implements PersonaService {
+	@Autowired
+	 private  PersonaRepository personaRepository;
+
+}

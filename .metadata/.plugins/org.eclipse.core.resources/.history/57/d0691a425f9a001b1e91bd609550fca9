@@ -1,0 +1,7 @@
+sprint.datasource.url=jdbc:postgresql://localhost:5432/avon
+sprint.datasource.username=postgres
+sprint.datasource.password=navarrete55
+sprint.jpa.show-sql=true
+sprint.jpa.hibernate.ddl-auto=create-drop
+sprint.jpa.properties.hibernate.dialect= org.hibernate.dialect.PosgreSQLDialect
+sprint.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true

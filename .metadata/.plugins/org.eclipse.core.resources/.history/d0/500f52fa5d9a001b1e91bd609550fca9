@@ -1,0 +1,3 @@
+sprint.datasource.url=jdbc:postgresql://localhost:5432/habilitation
+sprint.datasource.username=nombre del usuario de posgrest
+sprint.datasource.password=clave de posgrest
